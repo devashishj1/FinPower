@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "threadId": "t1",
+      "messageId": "m1",
+      "references": "",
+      "sender": "alice@example.com",
+      "subject": "Reinvestment of $10,000 Bond Maturing May 1",
+      "body": "Hello FinPower team,\n\nMy 5-year bond of $10,000 matures on May 1. I’d like to reinvest the proceeds into the same 5-year term at the current rate. Please let me know the next steps.\n\nThanks,\nAlice"
+    },
+    {
+      "id": "2",
+      "threadId": "t2",
+      "messageId": "m2",
+      "references": "",
+      "sender": "bob@example.com",
+      "subject": "Request Principal Repayment for Maturing CD",
+      "body": "Dear FinPower,\n\nMy Certificate of Deposit (CD) for $5,000 matures May 3. I request that you transfer the full principal back to my linked checking account ending in 1234.\n\nRegards,\nBob"
+    },
+    {
+      "id": "3",
+      "threadId": "t3",
+      "messageId": "m3",
+      "references": "",
+      "sender": "carol@example.com",
+      "subject": "Refix My Loan Interest Rate",
+      "body": "Hi,\n\nI have a fixed‐rate loan currently at 4.5%. Given recent rate cuts, I’d like to refix at the lower rate of 3.8%. Please advise on the process and any fees.\n\nBest,\nCarol"
+    },
+    {
+      "id": "4",
+      "threadId": "t4",
+      "messageId": "m4",
+      "references": "",
+      "sender": "dave@example.com",
+      "subject": "Switch to Floating Rate for My Home Loan",
+      "body": "Hello,\n\nI’m interested in converting my 30-year fixed mortgage to a 1-year floating rate. What margin would apply, and how quickly can this be done?\n\nThanks,\nDave"
+    },
+    {
+      "id": "5",
+      "threadId": "t5",
+      "messageId": "m5",
+      "references": "",
+      "sender": "eve@example.com",
+      "subject": "Update Contact Details",
+      "body": "FinPower Support,\n\nI’ve changed my mobile number. Please update my records to +1-555-123-4567 and my secondary email to eve.new@example.org.\n\nThanks,\nEve"
+    },
+    {
+      "id": "6",
+      "threadId": "t6",
+      "messageId": "m6",
+      "references": "",
+      "sender": "frank@example.com",
+      "subject": "Question about your mobile app",
+      "body": "Hi team,\n\nI can’t log into the FinPower mobile app after the latest update. It shows an authentication error. Can you assist?\n\n– Frank"
+    }
+  ]

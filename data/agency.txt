@@ -1,0 +1,19 @@
+# FinPower Agency Dummy Data
+
+## Maturity Reinvestment
+When an investment reaches maturity, FinPower automatically reinvests the principal plus accrued interest into a new term specified by the client. Reinvestment is processed within one business day without additional fees.
+
+## Maturity Repayment
+Upon maturity, FinPower repays the full principal amount and all accrued interest directly to the client's designated bank account. Repayment typically completes within two business days.
+
+## Refix Interest Rate
+Clients may request FinPower to fix the interest rate on an existing loan. The new fixed rate takes effect from the next billing cycle and is processed within one business day.
+
+## Floating Interest Rate
+Clients can elect to switch their loan to a floating interest rate linked to the benchmark rate plus a set margin. The change is applied at the start of the next interest calculation period.
+
+## Change Contact Details
+Clients can update their contact information (mailing address, phone number, or email) by sending the revised details via email. FinPower updates records within two business days after verifying the request.
+
+## Unrelated
+General information about FinPower's services, holiday schedules, or other topics not directly related to account instructions.
